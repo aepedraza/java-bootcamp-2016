@@ -1,4 +1,4 @@
-package com.globant.bootcamp.topic2;
+package com.globant.bootcamp.topic2.excercise1;
 
 public class File {
 	private String name;

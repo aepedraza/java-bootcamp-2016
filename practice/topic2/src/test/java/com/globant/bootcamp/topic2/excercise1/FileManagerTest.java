@@ -1,11 +1,14 @@
-package com.globant.bootcamp.topic2;
+package com.globant.bootcamp.topic2.excercise1;
 
+import static com.globant.bootcamp.topic2.excercise1.FileManager.*;
 import static org.junit.Assert.*;
-import static com.globant.bootcamp.topic2.FileManager.*;
 
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
+
+import com.globant.bootcamp.topic2.excercise1.File;
+import com.globant.bootcamp.topic2.excercise1.FileManager;
 
 public class FileManagerTest {
 

@@ -1,4 +1,4 @@
-package com.globant.bootcamp.topic2;
+package com.globant.bootcamp.topic2.excercise1;
 
 import java.util.ArrayList;
 import java.util.List;
